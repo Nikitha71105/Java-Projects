@@ -8,3 +8,4 @@ public class E20{
         capitalCities.put("USA", "Washington DC");
         System.out.println(capitalCities);
 }
+}
